@@ -1,7 +1,7 @@
 ---
 title: Saved game serialization
 ---
-For saving simpel data types, libGDX offers [Preferences](/wiki/preferences). However, if you want to save custom objects, in particular your whole game state – usually to save it to disk so it can be restored later – you need to serialize it first. There are a couple of different ways for doing this.
+For saving simple data types, libGDX offers [Preferences](/wiki/preferences). However, if you want to save custom objects, in particular your whole game state – usually to save it to disk so it can be restored later – you need to serialize it first. There are a couple of different ways for doing this.
 
 # JSON serialization
 
